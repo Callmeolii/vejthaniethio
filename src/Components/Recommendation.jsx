@@ -26,14 +26,16 @@ function Recommendation() {
     {
       image: Destination2,
       title: "Thailand",
-      subTitle: "Thailand is a Southeast Asia country. It's known for",
+      subTitle: "Thailand is a Southeast Asian country known for its vibrant culture, \
+      stunning beaches, bustling cities like Bangkok, rich history, delicious cuisine, friendly locals, \
+      and unique festivals such as Songkran and Loy Krathong.",
       cost: "54,200",
       duration: "Approx 2 night trip",
     },
     {
       image: Destination3,
       title: "Paris",
-      subTitle: "Paris, France's capital, is a major European city and a",
+      subTitle: "Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy, and culture. It boasts iconic landmarks like the Eiffel Tower, world-renowned museums, charming cafes, historic architecture, and a vibrant nightlife.",
       cost: "45,500",
       duration: "Approx 2 night trip",
     },
